@@ -1,0 +1,10 @@
+pyspark==3.5.1
+delta-spark==3.2.0
+pandas
+openpyxl
+scikit-learn
+kafka-python==2.0.2
+colorama
+pytest
+chispa
+openai
